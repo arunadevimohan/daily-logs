@@ -1,0 +1,523 @@
+ autopct='%1.1f%%', 
+
+ automatically define the random percentage for the piechart
+Pie Chart with Percentages Inside the Slices 
+    pctdistance=0.85
+Pie Chart with No Border Around Slices
+    wedgeprops={'edgecolor': 'none'}
+Pie Chart with Multiple Exploded Slices
+     explode=explode
+Pie Chart with Legend
+     plt.legend(loc='upper left', labels=labels)
+-------------------------------------------------------------------------------------------------------------------
+Day #  january 31 2025 - Saturday
+2025-01-31 16:28:02
+---------------------------------------
+
+Typing module
+    -Specifying Function Input and Output Types
+    -Using Optional for Nullable Parameters
+    -Type Hint for Dictionaries
+    -Using Union for Multiple Types
+    -Custom Type Aliases 
+        -DOT PRODUCT= vec1 & vec2
+        (a1, a2) (b1, b2)
+        a1*b1 + a2*b2 + ....+ an*bn
+
+-------------/
+
+
+https://agent.ai/agent/fluximage
+https://agent.ai/agent/youtube-transcript
+
+
+
+-------------/
+      
+Agent Thiruvizha #1:
+
+Hackathon on Learning and finding agents
+
+45 Hours
+
+Prize: 500 to 1000 INR 
+Only one winner
+
+Scoring:
+- More agents exploring
+- Unique Agents
+- Write Agent requirements
+- Sharing frequencey
+- Demo frequency
+- Types:
+    Funny agents
+    Financial
+    Retail
+    Network (LI)
+    Engineering
+
+-------------/
+
+https://agent.ai/agent/agent-giggle --- 90
+https://agent.ai/agent/startup-name-generator 
+https://agent.ai/agent/book-bite?rid=2cfb3556e1904168b2725b87952867fe --- 80
+https://agent.ai/agent/CorporateInnovationAdvisor ---80
+https://agent.ai/agent/competitor-scorecard --- 80
+https://agent.ai/agent/planet-tour-guide --60   
+https://agent.ai/agent/homeworkhelper?rid=464c680a6d934aa58abc05dda13f8e8c
+https://agent.ai/agent/linktuber
+https://agent.ai/agent/logo-creator?rid=9ce5d6e9cea543feb0cc07ee13343cef
+https://agent.ai/agent/Movie-ratings --- 50 
+https://agent.ai/agent/grandma-medicine -- 60
+https://agent.ai/agent/product-prize-detector
+https://agent.ai/agent/scheme-projector--90
+https://agent.ai/agent/y4bs0zqsjfrrv9lv --80
+https://agent.ai/agent/machine-library-finder --100
+https://agent.ai/agent/job-application-assistant
+
+1. Agent Giggle 					- 90
+		2. book bite 			 			- 80
+		3. movie rating 					- 50
+		4. CorporateInnovationadvisor  		- 80
+		5. competitor scorecard 			- 80
+		6. machine library finder 			- 100
+		7. application advisor 				- 80
+		8. scheme projector 				- 90
+		9. grandma medicin 					- 60 
+		10. planet-tour 					- 60
+		11. Logo creator
+		12. Job application assistant ai
+		13. Quick movie review
+
+
+Aruna devi
+    Agent giggle -- 90
+    Book Bite -- 80
+    Corporate innovation advisor -- 80
+    Competitor scorecard -- 80
+    Quick movie review -- 50
+
+                   -----------------------
+                          380
+                    -------------/
+
+         
+
+
+        1. Agent Giggle
+		2. startup name generator
+		3. Logo creator
+		4. Job application assistant ai
+		5. Quick movie review
+
+
+----------------------------------------------------------------------------------------/
+
+ChatGPT (OpenAI) - AI-powered conversational assistant for writing and problem-solving.
+DALL·E (OpenAI) - AI that generates images from text descriptions.
+Runway - AI tools for creative content creation, including video and images.
+Jasper AI - Content generation AI for marketing, blogs, and copywriting.
+Copy.ai - AI for creating marketing copy and other written content.
+WriteSonic - AI tool for content writing, blogs, and SEO articles.
+ChatGPT (OpenAI) - https://chat.openai.com
+DALL·E (OpenAI) - https://openai.com/dall-e
+Runway - https://runwayml.com
+Jasper AI - https://www.jasper.ai
+Copy.ai - https://www.copy.ai
+WriteSonic - https://writesonic.com
+
+#7                                                                                                                                                        WriteSonic   
+AI tool for content writing, blogs, and SEO articles 
+https://writesonic.com
+
+#8
+Pictory   
+ AI video creation platform for turning text into videos.
+https://pictory.ai
+
+
+#9 
+DeepAI 
+Offers AI-powered tools like image generation and text analysis.
+https://deepai.org
+
+#10
+Artbreeder 
+AI for collaborative image creation and manipulation.
+https://www.artbreeder.com
+
+#11
+Lumen5 
+AI video creation tool for turning text into engaging videos.
+https://www.lumen5.com
+
+#12
+Synthesia 
+AI-powered video generation platform with avatars and voices.
+ https://www.synthesia.io
+
+
+#13
+StoryStream 
+AI-based content marketing platform for storytelling and brand engagement.
+https://storystream.ai
+
+#14
+AI Dungeon 
+ Interactive AI story game that adapts to player choices.
+https://play.aidungeon.io
+
+#15
+Designify 
+AI tool for transforming designs and images into professional layouts.
+ https://designify.com
+---
+ #16
+Tome 
+AI-powered storytelling platform that generates presentations and narratives.
+ https://beta.tome.app
+
+ #17
+Rephrase.ai 
+Personalized video generation using AI-driven avatars and voices.
+https://www.rephrase.ai
+
+#18
+Mubert 
+AI-generated music and soundscapes for content creation.
+https://mubert.com
+
+#19
+Scribe AI 
+ Tool for generating step-by-step guides and documentation using AI.
+https://scribehow.com
+
+#20
+Notion AI 
+AI-powered assistant integrated into the Notion workspace.
+https://www.notion.so/product/ai
+
+#21
+Quillbot 
+ AI-based tool for paraphrasing, summarizing, and improving text.
+https://www.quillbot.com
+
+#22
+Zotero 
+AI-driven citation management and research organization tool.
+https://www.zotero.org
+---
+#23
+Voice.ai 
+AI-powered voice modulation and voice transformation tools.
+https://voice.ai
+
+#24
+Lalal.ai  
+AI-based stem separation tool for music tracks.
+https://www.lalal.ai
+
+#25
+Diffblue 
+AI that automatically writes unit tests for Java code.
+https://www.diffblue.com
+
+#26
+Veed.io 
+AI video editor for creating and editing content online.
+https://www.veed.io
+
+#27
+Resemble.ai 
+AI voice synthesis platform for creating personalized voices.
+https://www.resemble.ai
+
+#28
+Fotor AI 
+AI-based photo editing and enhancement platform.
+https://www.fotor.com
+
+#29
+CopySmith 
+AI-driven content generation tool for marketers and eCommerce.
+https://copysmith.ai
+
+#30
+HyperWrite 
+AI assistant for writing better articles, emails, and stories. 
+https://www.hyperwriteai.com
+
+#31
+Magic Write (Canva) 
+AI tool for content generation and design suggestions. 
+https://www.canva.com
+
+#32
+Scalenut 
+AI-powered content creation tool for SEO and marketing. 
+https://www.scalenut.com
+
+#33
+ContentBot 
+AI tool for creating copy, blog posts, and marketing content. 
+https://contentbot.ai
+
+#34
+Ink 
+AI-powered writing assistant for optimizing content and SEO performance. 
+https://inkforall.com
+
+#35
+MarketMuse 
+AI for content research and optimization to boost SEO rankings. 
+https://www.marketmuse.com
+
+#36
+Frase 
+AI-driven content research, writing, and SEO optimization tool. 
+https://www.frase.io
+
+#37
+ViralCopy 
+AI tool for generating viral content and marketing copy. 
+https://www.viralcopy.ai
+
+#38
+Aiva 
+AI music composer for creating original music and soundtracks. 
+https://www.aiva.ai
+
+#39
+Lensa AI 
+AI photo editor with features like background removal and enhancement.
+https://lensa.ai
+
+#40
+Descript 
+AI audio and video editing platform with transcription capabilities. 
+https://www.descript.com
+
+#41
+Play.ht 
+AI-generated realistic voiceovers from text-based input.
+https://play.ht
+
+#42
+Turing 
+AI-powered platform for recruiting and managing remote developers.
+https://www.turing.com
+
+#43
+Rasa 
+Open-source conversational AI for building chatbots and virtual assistants.
+https://rasa.com
+
+#44
+Genei 
+AI tool for summarizing and extracting key insights from documents.
+https://www.genei.io
+
+#45
+Neural.love 
+AI platform for generating art, images, and other media. 
+https://neural.love
+
+#46
+AI Writer 
+AI tool designed for creating high-quality written content
+https://www.ai-writer.com
+
+#47
+Tabnine 
+AI-powered code completion tool for faster software development. 
+https://www.tabnine.com
+
+#48
+Runway Gen-2 
+AI tool for creating high-quality, editable videos from text descriptions.
+https://runwayml.com/gen-2
+
+#49
+Fotor 
+AI-powered photo editing tool with advanced effects and design options.
+https://www.fotor.com/features/ai-image-generator
+
+#50
+Big Sleep  
+AI model that generates realistic images from textual descriptions.
+https://github.com/lucidrains/big-sleep
+
+#51
+Lobe 
+Microsoft’s AI tool for training machine learning models with no coding.
+https://www.lobe.ai
+
+#52
+ChatSonic 
+AI-powered conversational assistant designed for content generation and social media posts. 
+https://writesonic.com/chatsonic
+
+
+Runway Gen-2 - 
+Fotor - 
+Big Sleep - 
+Lobe - 
+ChatSonic - 
+
+
+Writesonic - AI copywriting tool for creating content, blogs, and landing pages.
+
+
+-----------------------------------------------------------------------------------/
+
+ChatGPT
+     It will generate the text based for the prompt. 
+     ChatGPT is an advanced AI tool developed by open.ai. 
+     It will understand the human like text based input and it gives clear output. 
+     AI-powered conversational assistant for writing and problem-solving.
+----------------------------------------------------------------------------------/
+WriteSonic
+    It is our writing partner that helps you to create blog posts, articles, and marketing content.
+    It is most advanced AI Article writer.
+    Access the most advanced AI models through one interface. Switch between ChatGPT O3 mini, Claude, GPT-4o, and more - all optimized for marketing and content creation.
+--------------------------------------------------------------------------------------
+Jasper ai
+    Jasper contains 50+ templates for specific content types like blog posts, ads, emails, product descriptions, social media captions, and more.
+    It is a multilingual content creation contains over 25 languages, we can create the content in any language like spanish, japanese, etc..
+    Jasper can pull information from our internal knowledge base.
+--------------------------------------------------------------------------------------/
+copy.ai 
+    This have the different content types:
+        Social Media Captions (Instagram, LinkedIn, Twitter)
+        Product Descriptions for eCommerce
+        Ad Copy for Facebook, Google, LinkedIn
+        Email Marketing Campaigns
+        Blog Post Ideas, Intros, and Outlines
+
+    Generate creative ideas for marketing campaigns, startup names, slogans, brand taglines, and more.it is also the multilingual content creation    .
+    It Helps to create detailed articles, blog posts, reports, and even scripts.
+-------------------------------------------------------------------------------------/
+
+Notion AI 
+    It generate drafts, emails, blog posts, meeting notes, and more without switching apps. Offers suggestions for rewriting, improving clarity, or changing the tone of your text.
+    Helps generate new ideas for projects, blog topics, strategies, or creative writing.
+
+----------------------------------------------------------------------------------------/
+
+Quillbot 
+    Best for academic writing and formal document improvement. 
+    It is a Language enhancement expert: 7 different rewriting modes.
+    It is ai writer and grammer checker tool
+-----------------------------------------------------------------------------------------/
+
+Frase 
+    It is a Competition analyzer: Shows what's missing in your content vs competitors
+    Real-time search intent matching for better SEO.
+    It helps with research, writing, and optimizing articles.
+
+
+    panda, github
+     highlight notes analyser
+
+
+
+
+----------------------------------------------------------------------------/
+Jensen Huang
+
+correct data  :
+
+Company information
+Public interest
+skills
+Top 5 News & Magazines
+
+Wrong data :
+
+Basic information
+Public Hobbies
+Hidden Interests
+Hidden Hobbies
+Challenges
+Contact Information
+Favorite Foods
+Favorite Places to Visit
+
+-----------------------------------/
+
+Colette Kress
+
+correct data  :
+
+Company information
+Public interest
+skills
+Top 5 News & Magazines
+
+
+Wrong data :
+
+Basic information
+Public Hobbies
+Hidden Interests
+Hidden Hobbies
+Challenges
+Contact Information
+Favorite Foods
+Favorite Places to Visit
+------------------------------/
+Chris Malachowsky
+
+correct data  :
+
+Company information
+Public interest
+Hidden Interests
+skills
+Top 5 News & Magazines
+Contact Information
+Favorite Foods
+
+
+Wrong data :
+
+Basic information
+Public Hobbies
+Hidden Hobbies
+Challenges
+Favorite Places to Visit
+-----------------------------------------/
+
+Debora Wheeler
+
+correct data  :
+
+Company information
+Public interest
+Hidden Interests
+skills
+Top 5 News & Magazines
+Contact Information
+Favorite Foods
+
+
+Wrong data :
+
+Basic information
+Public Hobbies
+Hidden Hobbies
+Challenges
+Favorite Places to Visit
+
+14 day topics:
+
+1 st day:
+
+Variables, data types (int, float, str, bool)
+    vari:
+        container = store some value
+        (a = ) variables
+        a= "aruna" (value) it is available for many values.
+        print (x)
+
+Input/output operations (print(), input())

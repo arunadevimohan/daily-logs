@@ -1,0 +1,28 @@
+OpenAIError                               
+Cell In[9], line 1
+----> 1 llm = ChatOpenAI(model = 'gpt-40-mini')
+
+File ~\.conda\envs\py312\Lib\site-packages\langchain_core\load\serializable.py:125, in Serializable.__init__(self, *args, **kwargs)
+    123 def __init__(self, *args: Any, **kwargs: Any) -> None:
+    124     """"""
+--> 125     super().__init__(*args, **kwargs)
+
+    [... skipping hidden 1 frame]
+
+File ~\.conda\envs\py312\Lib\site-packages\langchain_openai\chat_models\base.py:562, in BaseChatOpenAI.validate_environment(self)
+    560         self.http_client = httpx.Client(proxy=self.openai_proxy)
+    561     sync_specific = {"http_client": self.http_client}
+--> 562     self.root_client = openai.OpenAI(**client_params, **sync_specific)  # type: ignore[arg-type]
+    563     self.client = self.root_client.chat.completions
+    564 if not self.async_client:
+
+File ~\.conda\envs\py312\Lib\site-packages\openai\_client.py:110, in OpenAI.__init__(self, api_key, organization, project, base_url, websocket_base_url, timeout, max_retries, default_headers, default_query, http_client, _strict_response_validation)
+    108     api_key = os.environ.get("OPENAI_API_KEY")
+    109 if api_key is None:
+--> 110     raise OpenAIError(
+    111         "The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+    112     )
+    113 self.api_key = api_key
+    115 if organization is None:
+
+OpenAIError: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable

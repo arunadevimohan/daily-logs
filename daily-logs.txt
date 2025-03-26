@@ -517,7 +517,87 @@ Variables, data types (int, float, str, bool)
     vari:
         container = store some value
         (a = ) variables
-        a= "aruna" (value) it is available for many values.
-        print (x)
+        a= "aruna" (value) , it is available for many values.
+        print (type(x))
+        
+    Data type:
+        str
+        float
+        int
+        bool
 
 Input/output operations (print(), input())
+    x = input("enter the value")   => input
+    print (x)  # output
+
+    print =>inbuild Function
+
+
+def num_display(num):
+        return.num
+    num = input("enter the num")
+    print(num_display(num))
+
+print()
+
+
+day 2:
+
+    Python Operators : 
+	
+1. arithmetic operators 
+
+	+ , - , * , /
+
+
+2. assignment operators
+
+	= , += , -= , *= , /= 
+
+
+3. comparison operators
+
+	== , > , < >= , <= 
+
+	True , false 
+
+
+4. logical operators
+
+	and , or , not 
+
+
+
+
+5. identity operators
+
+	is , isnot
+
+
+6. bitwise operators
+
+ 	in , notin 
+
+
+7. membership operators
+
+	AND , OR , XOR , NOT 
+
+
+type casting:
+
+    int(input("enter the num"))
+
+f string or formatting string:
+    print (f"the result is: {y}")
+
+string operations:
+
+    
+
+
+
+
+
+
+
